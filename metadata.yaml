@@ -1,0 +1,36 @@
+_repo: -lomvil-gElbesz-l-sek_42286
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ambrus, Zoltán
+    alias: Ambrus, Zoltan
+    birthdate: 1861
+    deathdate: 1932
+    gutenberg_agent_id: '34456'
+    url: http://www.gutenberg.org/2009/agents/34456
+    wikipedia: http://hu.wikipedia.org/wiki/Ambrus_Zolt%C3%A1n_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2013-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42286'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Hungarian'
+- !lcsh 'Hungarian fiction'
+- !lcc 'PH'
+tableOfContents: Pókháló kisasszony -- Mese a halászról és a tengerészről -- Ninive
+  pusztulása -- Az ispilánti lányok -- Dom Gil, a zöld nadrágú -- Bob, az oroszlán
+  -- Finish -- Liliputi történet -- Máli néni -- Casanova -- Lórántfy özvegye -- Nicaragua
+  őrnagy -- Esteban testvére -- Aqua vitae -- A szerelmes gladiátor -- Telepathia
+  -- A szegény Király Feri -- Roland -- Dél királynője -- A gerolsteini nagyherczegnő
+  -- Gyűlölet -- Brunswick -- A zenélő óra -- Szent Szerafin megtérése -- Ostoba Ágost
+  halála -- Az elégtétel -- Melancholic -- Rozgonyi Cziczelle -- Csák Máté a gázgyárban.
+title: 'Álomvilág: Elbeszélések'
+url: http://www.gutenberg.org/ebooks/42286
